@@ -41,7 +41,6 @@ You can get in touch with me via GitHub issues on this repository or reach out t
 - Email: [tom@tomshaw.dev](mailto:tom@tomshaw.dev)
 - Instagram: [@tom.developer](https://instagram.com/tom.developer)
 - LinkedIn: [Tom Shaw](https://linkedin.com/in/imtomshaw)
-- TikTok: [@tom.developer](https://tiktok.com/@tom.developer)
-- Youtube: [@tom.developer](https://youtube.com/@tom.developer)
+
 
 Looking forward to building something awesome!!!
